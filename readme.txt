@@ -5,3 +5,4 @@ Git tracks changes of files.
 git push to github
 Creating a new branch is quick AND simple.
 fast forward
+i have to fix bug, stash here
